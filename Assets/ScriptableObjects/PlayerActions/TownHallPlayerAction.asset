@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0318a41d20153846a44221c48dde1b4, type: 3}
+  m_Name: TownHallPlayerAction
+  m_EditorClassIdentifier: 
+  unitInformation:
+  - {fileID: 11400000, guid: f2d40eb09c3d3f84eb53a89a69602db5, type: 2}
+  - {fileID: 11400000, guid: 2fe17a303b1f4864193a795772a1831a, type: 2}
+  - {fileID: 11400000, guid: abce1bc648a73e243bda1e11d5d02c34, type: 2}
+  buildingInformation: []
